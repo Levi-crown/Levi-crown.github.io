@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://levi-crown.github.io/sitemap.xml
